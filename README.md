@@ -1,6 +1,6 @@
 # introduce-test
 
-name : Lutfi Adam
+Name : Lutfi Adam
 
 NIM : G74160046
 
